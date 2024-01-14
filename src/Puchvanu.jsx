@@ -22,7 +22,7 @@ export default function Puchvanu() {
     return (
         <div class="container">
             <div>
-                <h1 class="header_text">This Coming Weekend </h1>
+                <h1 class="header_text">Next Weekend </h1>
                 <h1 class="header_text">Can We Go On a Maggie Date...?</h1>
             </div>
             <div class="gif_container">
