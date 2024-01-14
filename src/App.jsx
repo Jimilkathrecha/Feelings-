@@ -14,7 +14,7 @@ function App() {
       {/* <Puchvanu /> */}
       {/* <ManiGay /> */}
       <Routes>
-        <Route path="/bolo-bolo" element={<Puchvanu />} />
+        <Route path="/" element={<Puchvanu />} />
         <Route path="/Mani-Gay" element={<ManiGay />} />
       </Routes>
 
